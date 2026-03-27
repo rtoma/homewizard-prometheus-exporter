@@ -1,0 +1,10 @@
+websocket.log
+
+# Go build artifacts
+/exporter
+*.exe
+
+# Private key files (contain sensitive data - do not commit)
+*.key
+
+
